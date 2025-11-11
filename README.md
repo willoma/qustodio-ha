@@ -25,21 +25,12 @@ You must have [HACS](https://hacs.xyz/) installed in your Home Assistant instanc
 - Validate opening the link in your Home Assistant instance
 - Click on the "Add" button in the popup (which will configure HACS to take this integration into account)
 - Click on "Download" in the bottom right corner (which will install the integration)
-- Restart Home Assistant (see in the settings section)
+- Restart Home Assistant (see in the _Settings_ section)
 
 ### Connecting to your Qustodio account
 
-## Roadmap
-
-Very short term tasks:
-
-- [x] Add whatever is needed to install this integration using HACS
-- [ ] Check if it works at all
-- [ ] If it does not work, fix it
-- [ ] Check for missing features
-
-Longer-term tasks:
-
-- [ ] Separate in two repositories, pyqustodio and qustodio-ha (HA best practice)
-
-Next tasks still to be determined following the previous checks.
+- Go to _Settings_ → _Devices & services_
+- Click on _Add integration_ in the bottom right corner
+- Select _Qustodio_ in the list
+- Enter your Qustodio login (email) and password in the "Qustodio Setup" popup
+- If they are correct, your kids will be detected and a device will be created in Home Assistant for each of them.
