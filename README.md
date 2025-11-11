@@ -1,1 +1,30 @@
-Rewrite of custom_component https://github.com/dotKrad/hass-qustodio. Old repository not maintained, code rewritten using Claude to support HA 2025.7 and latest Qustodio API.
+# Home Assistant integration for Qustodio
+
+[Qustodio](https://www.qustodio.com) is a parental control framework (really more than a simple application), able to control multiple devices for multiple kids, with many useful features.
+
+This integration allows you to integrate _Qustodio_ features in Home Assistant. It is not cracking, no copyright infringement, there is no specific rights that this integration would give you that you would not have with the _Qustodio_ app or website. Just an alternative way to deal with parental control.
+
+A [Qustodio](https://www.qustodio.com) account is needed for this to work at all.
+
+## Disclaimer
+
+I (Willow) am not the primary author of this integration. I have forked <https://github.com/benmac7/qustodio>, which itself is a rewrite by _Claude_ of <https://github.com/dotKrad/hass-qustodio>. I also am not affiliated at all with _Qustodio_, apart from being a proud mother of two, using this framework to deal with my kid's obsession with screens.
+
+## Installation
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=willoma&repository=qustodio-ha&category=integration)
+
+## Roadmap
+
+Very short term tasks:
+
+- [ ] Add whatever is needed to install this integration using HACS
+- [ ] Check if it works at all
+- [ ] If it does not work, fix it
+- [ ] Check for missing features
+
+Longer-term tasks:
+
+- [ ] Separate in two repositories, pyqustodio and qustodio-ha (HA best practice)
+
+Next tasks still to be determined following the previous checks.
