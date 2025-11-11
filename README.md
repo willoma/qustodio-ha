@@ -8,7 +8,9 @@ A [Qustodio](https://www.qustodio.com) account is needed for this to work at all
 
 ## Disclaimer
 
-I (Willow) am not the primary author of this integration. I have forked <https://github.com/benmac7/qustodio>, which itself is a rewrite by _Claude_ of <https://github.com/dotKrad/hass-qustodio>. I also am not affiliated at all with _Qustodio_, apart from being a proud mother of two, using this tool to deal with my kids' obsession with screens.
+I (Willow) am not the primary author of this integration. I have forked <https://github.com/benmac7/qustodio>, which itself is a rewrite by _Claude_ of <https://github.com/dotKrad/hass-qustodio>.
+
+I also am not affiliated at all with _Qustodio_, apart from being a proud mother of two, using this tool to deal with my kids' obsession with screens. I don't receive any money or compensation from anyone, this work is 100% benevolent.
 
 You must be aware that this is customization things, not official from _Home Assistant_, not officially endorsed by anyone, blah blah usual disclaimer, I'm not responsible if your kids get unlimited time because of a wrong configuration, or if you block anything you did not want to block, if a pink unicorn appears in your garden, or any other inconvenience... but of course I will gladly accept any feedback, bug report, feature request, etc.
 

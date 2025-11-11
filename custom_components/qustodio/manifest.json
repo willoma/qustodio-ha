@@ -1,10 +1,10 @@
 {
   "domain": "qustodio",
   "name": "Qustodio",
-  "codeowners": [ "@willoma" ],
+  "codeowners": [ "@willoma", "@benmac7", "@dotKrad" ],
   "dependencies": [ ],
   "documentation": "https://github.com/willoma/qustodio-ha",
-  "integration_type": "service",
+  "integration_type": "hub",
   "config_flow": true,
   "requirements": [ "aiohttp>=3.8.0" ],
   "homeassistant": "2025.11.0",
