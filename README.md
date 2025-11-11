@@ -8,7 +8,7 @@ A [Qustodio](https://www.qustodio.com) account is needed for this to work at all
 
 ## Disclaimer
 
-I (Willow) am not the primary author of this integration. I have forked <https://github.com/benmac7/qustodio>, which itself is a rewrite by _Claude_ of <https://github.com/dotKrad/hass-qustodio>. I also am not affiliated at all with _Qustodio_, apart from being a proud mother of two, using this framework to deal with my kid's obsession with screens.
+I (Willow) am not the primary author of this integration. I have forked <https://github.com/benmac7/qustodio>, which itself is a rewrite by _Claude_ of <https://github.com/dotKrad/hass-qustodio>. I also am not affiliated at all with _Qustodio_, apart from being a proud mother of two, using this framework to deal with my kids' obsession with screens.
 
 ## Installation
 
