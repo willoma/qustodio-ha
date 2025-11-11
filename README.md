@@ -10,9 +10,19 @@ A [Qustodio](https://www.qustodio.com) account is needed for this to work at all
 
 I (Willow) am not the primary author of this integration. I have forked <https://github.com/benmac7/qustodio>, which itself is a rewrite by _Claude_ of <https://github.com/dotKrad/hass-qustodio>. I also am not affiliated at all with _Qustodio_, apart from being a proud mother of two, using this framework to deal with my kids' obsession with screens.
 
+You must be aware that this is customization things, not official from _Home Assistant_, not officially endorsed, blah blah usual disclaimer, I'm not responsible if your kids get unlimited time or if you block anything or any other inconvenience, etc. But of course I gladly accept any feedback, bug reports, feature requests, etc.
+
 ## Installation
 
+Prerequisite: you must have [HACS](https://hacs.xyz/) installed in your Home Assistant instance.
+
+- Click on this link:
+
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=willoma&repository=qustodio-ha&category=integration)
+
+- Validate opening the link in your Home Assistant instance
+- Click on the "Add" button in the popup
+- ...
 
 ## Roadmap
 
